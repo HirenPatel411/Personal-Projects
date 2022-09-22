@@ -1,0 +1,15 @@
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\bin\Debug\net6.0\PatelHiren_SortingAlgorithms.exe
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\bin\Debug\net6.0\PatelHiren_SortingAlgorithms.deps.json
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\bin\Debug\net6.0\PatelHiren_SortingAlgorithms.runtimeconfig.json
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\bin\Debug\net6.0\PatelHiren_SortingAlgorithms.dll
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\bin\Debug\net6.0\PatelHiren_SortingAlgorithms.pdb
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\PatelHiren_SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\PatelHiren_SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\PatelHiren_SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\PatelHiren_SortingAlgorithms.AssemblyInfo.cs
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\PatelHiren_SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\PatelHiren_SortingAlgorithms.dll
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\refint\PatelHiren_SortingAlgorithms.dll
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\PatelHiren_SortingAlgorithms.pdb
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\PatelHiren_SortingAlgorithms.genruntimeconfig.cache
+C:\Users\hiren\OneDrive\Desktop\PatelHiren_SortingAlgorithms\PatelHiren_SortingAlgorithms\obj\Debug\net6.0\ref\PatelHiren_SortingAlgorithms.dll
