@@ -1,9 +1,10 @@
 # Personal-Projects
 
 ## Introduction
-  This repository has my personal projects and research papers.
+  This repository has my personal research paper! Feel free to read it.
   
-  Projects and research papers are uploaded to seperate branches
+  This program uses 9 different sorting algorithms and my paper explains which is the better one in different cases.
+ 
   
 ### Language
   C#
