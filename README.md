@@ -1,9 +1,7 @@
-# Personal-Projects
+# Personal-Project
 
 ## Introduction
-  This repository has my personal projects and research papers.
-  
-  Projects and research papers are uploaded to seperate branches
+  This repository contains my matching state capital game!
   
 ### Language
   C#
